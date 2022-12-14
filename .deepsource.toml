@@ -1,8 +1,5 @@
 version = 1
 
 [[analyzers]]
-name = "go"
+name = "php"
 enabled = true
-
-  [analyzers.meta]
-  import_root = "github.com/subham-deepsource/Gigarepo"
